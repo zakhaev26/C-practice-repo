@@ -28,11 +28,18 @@ float cosineconvertor(float x){
 }
 
 int main(){
-float f= degtoradiansconvertor(90);
+    float y;
+    printf("Enter a degree:\n");
+    scanf("%f",&y);
+float f= degtoradiansconvertor(y);
 float x =cos(f);
 printf("Comp ans = %f\n",x);
 printf("func ans = %f",cosineconvertor(f));
 
+
+
+return 0;
+}
 
 
 return 0;
