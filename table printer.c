@@ -10,7 +10,7 @@ int main()
             printf("%d\n", arr[i][j]);
         }
         printf("\n");
-    s
+    
     }
 
     return 0;
