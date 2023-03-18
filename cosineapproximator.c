@@ -40,7 +40,3 @@ printf("func ans = %f",cosineconvertor(f));
 
 return 0;
 }
-
-
-return 0;
-}
