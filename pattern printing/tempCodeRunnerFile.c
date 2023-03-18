@@ -1,0 +1,1 @@
+printf("%d   ",num-3);
