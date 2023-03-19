@@ -31,6 +31,7 @@ int main()
             matrix3[i][j] = *ptr1 + *ptr2;
         }
     }
+
     for (int i = 0; i <= 2; i++)
     {
         for (int j = 0; j <= 2; j++)
