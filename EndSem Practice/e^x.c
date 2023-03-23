@@ -35,9 +35,8 @@ double eulercalc(int x, int num)
 
 int main(){
 
-
-    printf("%f\n", pow(e, 50));
-    printf("%lf", eulercalc(2, 50));
+    printf("%f\n", pow(e, 2));
+    printf("%f", eulercalc(2,5));
 
     return 0;
 }
